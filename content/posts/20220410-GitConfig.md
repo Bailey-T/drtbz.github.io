@@ -1,25 +1,30 @@
 ---
-draft: True
-title: 
-description:
+draft: False
+title: Git Config
+description: Super useful git configs
 
-date: 2021-07-06T19:00:00+01:00
+date: 2022-04-10T20:00:00+00:00
 tags: 
-    - A
-    - B
+    - Git
+    - Reference
 categories:
-    - 1
-    - 2
+    - Git
+    - Reference
 ---
-intro stuff
+Been a while. Got a new laptop and realised it would be dead handy to have this written down somewhere. This will be a living page I update if anything else comes along.
 
-## H1
+## Useful Git Configs
+```
+# Standard stuff - set username and email for commits
+git config --global user.name TomB
+git config --global user.email 123456+user@users.noreply.github.com
 
-lorem ipsum
+# Setup GPG for verified commits and automatically assume -S on all commits
+git config --global user.signingkey A1B2C3D4E5
+git config --global commit.gpgSign true
 
-## H2
-
-lorem  ipsum
-
+# Don't need to set set-upstream to push branches!
+git config --global push.default current
+```
 ## References
-[name](link)
+[gpgKeys@GithubDocs](https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key)
