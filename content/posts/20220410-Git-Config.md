@@ -1,5 +1,5 @@
 ---
-draft: False
+draft: True
 title: Git Config
 description: Super useful git configs
 
