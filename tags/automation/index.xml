@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>automation on drtbz | Tom Bailey</title>
+    <link>https://drtbz.com/tags/automation/</link>
+    <description>Recent content in automation on drtbz | Tom Bailey</description>
+    <image>
+      <url>https://drtbz.com/</url>
+      <link>https://drtbz.com/</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://drtbz.com/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>launchd agents for brew upgrade</title>
+      <link>https://drtbz.com/posts/20220418-launchd-cronjob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://drtbz.com/posts/20220418-launchd-cronjob/</guid>
+      <description>Automatically running brew upgrade using mac native launchd</description>
+    </item>
+    
+  </channel>
+</rss>
