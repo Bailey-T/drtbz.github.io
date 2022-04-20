@@ -2,6 +2,11 @@ name: hugo -> pages
 
 on:
   push:
+    paths:
+      - '**.md'
+      - '!README.md'
+      - '!CODE_OF_CONDUCT.md'
+      - '!.github/**'
     branches:
       - main  # Set a branch to deploy
   pull_request:
