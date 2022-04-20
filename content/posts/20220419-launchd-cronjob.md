@@ -76,7 +76,7 @@ dont forget to `chmod +x` this script or it all falls apart
 ## launchctl
 Now it's just a case of loading the `.plist` 
 ```shell
-launchctl load /path/to/com.drtbz.cronlogcleaner.plist
+launchctl load /path/to/com.drtbz.brewupd.plist
 ```
 
 there is also a `launchctl unload` that does what it says on the tin.
