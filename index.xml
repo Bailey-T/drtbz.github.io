@@ -12,10 +12,10 @@
     <lastBuildDate>Tue, 19 Apr 2022 20:00:00 +0000</lastBuildDate><atom:link href="https://drtbz.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>launchd agents for brew upgrade</title>
-      <link>https://drtbz.com/posts/20220418-launchd-cronjob/</link>
+      <link>https://drtbz.com/posts/20220419-launchd-cronjob/</link>
       <pubDate>Tue, 19 Apr 2022 20:00:00 +0000</pubDate>
       
-      <guid>https://drtbz.com/posts/20220418-launchd-cronjob/</guid>
+      <guid>https://drtbz.com/posts/20220419-launchd-cronjob/</guid>
       <description>Automatically running brew upgrade using mac native launchd</description>
     </item>
     
