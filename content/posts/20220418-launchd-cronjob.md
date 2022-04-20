@@ -3,7 +3,7 @@ draft: False
 title: launchd agents for brew upgrade
 description: Automatically running brew upgrade using mac native launchd
 
-date: 2022-04-019T20:00:00+00:00
+date: 2022-04-19T20:00:00+00:00
 tags: 
     - launchd
     - mac-config
