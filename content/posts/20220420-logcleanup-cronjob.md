@@ -3,7 +3,7 @@ draft: False
 title: launchd agent for local log cleanup
 description: Cleanup of launchd "cronlogs"
 
-date: 2022-04-20T20:00:00+00:00
+date: 2022-04-20T19:00:00+00:00
 tags: 
     - launchd
     - mac-config
