@@ -2,13 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://drtbz.com/tags/automation/</loc>
+    <lastmod>2022-04-19T20:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/categories/automation/</loc>
+    <lastmod>2022-04-19T20:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://drtbz.com/categories/</loc>
-    <lastmod>2022-04-10T20:00:00+00:00</lastmod>
+    <lastmod>2022-04-19T20:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://drtbz.com/</loc>
-    <lastmod>2022-04-10T20:00:00+00:00</lastmod>
+    <lastmod>2022-04-19T20:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/tags/homebrew/</loc>
+    <lastmod>2022-04-19T20:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/tags/launchd/</loc>
+    <lastmod>2022-04-19T20:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/posts/20220418-launchd-cronjob/</loc>
+    <lastmod>2022-04-19T20:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/tags/mac-config/</loc>
+    <lastmod>2022-04-19T20:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/categories/mac-config/</loc>
+    <lastmod>2022-04-19T20:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/posts/</loc>
+    <lastmod>2022-04-19T20:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/tags/</loc>
+    <lastmod>2022-04-19T20:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -27,22 +72,12 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://drtbz.com/posts/</loc>
-    <lastmod>2022-04-10T20:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://drtbz.com/tags/reference/</loc>
     <lastmod>2022-04-10T20:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://drtbz.com/categories/reference/</loc>
-    <lastmod>2022-04-10T20:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://drtbz.com/tags/</loc>
     <lastmod>2022-04-10T20:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -109,34 +144,6 @@
   </url><url>
     <loc>https://drtbz.com/categories/hugo/</loc>
     <lastmod>2021-06-30T20:45:00+01:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://drtbz.com/tags/automation/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://drtbz.com/categories/automation/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://drtbz.com/tags/homebrew/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://drtbz.com/tags/launchd/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://drtbz.com/posts/20220418-launchd-cronjob/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://drtbz.com/tags/mac-config/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://drtbz.com/categories/mac-config/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

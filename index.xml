@@ -9,7 +9,16 @@
       <link>https://drtbz.com/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Apr 2022 20:00:00 +0000</lastBuildDate><atom:link href="https://drtbz.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2022 20:00:00 +0000</lastBuildDate><atom:link href="https://drtbz.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>launchd agents for brew upgrade</title>
+      <link>https://drtbz.com/posts/20220418-launchd-cronjob/</link>
+      <pubDate>Tue, 19 Apr 2022 20:00:00 +0000</pubDate>
+      
+      <guid>https://drtbz.com/posts/20220418-launchd-cronjob/</guid>
+      <description>Automatically running brew upgrade using mac native launchd</description>
+    </item>
+    
     <item>
       <title>Git Config</title>
       <link>https://drtbz.com/posts/20220410-git-config/</link>
@@ -44,15 +53,6 @@
       
       <guid>https://drtbz.com/posts/20210630-hugo-githubpages-cloudflare-01/</guid>
       <description>Setting up a simple site with Hugo, Github Pages, and Cloudflare</description>
-    </item>
-    
-    <item>
-      <title>launchd agents for brew upgrade</title>
-      <link>https://drtbz.com/posts/20220418-launchd-cronjob/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://drtbz.com/posts/20220418-launchd-cronjob/</guid>
-      <description>Automatically running brew upgrade using mac native launchd</description>
     </item>
     
   </channel>

@@ -8,11 +8,12 @@
       <url>https://drtbz.com/</url>
       <link>https://drtbz.com/</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://drtbz.com/tags/automation/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 19 Apr 2022 20:00:00 +0000</lastBuildDate><atom:link href="https://drtbz.com/tags/automation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>launchd agents for brew upgrade</title>
       <link>https://drtbz.com/posts/20220418-launchd-cronjob/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 19 Apr 2022 20:00:00 +0000</pubDate>
       
       <guid>https://drtbz.com/posts/20220418-launchd-cronjob/</guid>
       <description>Automatically running brew upgrade using mac native launchd</description>
