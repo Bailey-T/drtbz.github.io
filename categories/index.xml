@@ -9,13 +9,31 @@
       <link>https://drtbz.com/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 May 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://drtbz.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://drtbz.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>helm</title>
       <link>https://drtbz.com/categories/helm/</link>
-      <pubDate>Wed, 25 May 2022 19:00:00 +0100</pubDate>
+      <pubDate>Fri, 27 May 2022 19:00:00 +0100</pubDate>
       
       <guid>https://drtbz.com/categories/helm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>references</title>
+      <link>https://drtbz.com/categories/references/</link>
+      <pubDate>Fri, 27 May 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://drtbz.com/categories/references/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terraform</title>
+      <link>https://drtbz.com/categories/terraform/</link>
+      <pubDate>Fri, 27 May 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://drtbz.com/categories/terraform/</guid>
       <description></description>
     </item>
     
@@ -25,24 +43,6 @@
       <pubDate>Wed, 25 May 2022 19:00:00 +0100</pubDate>
       
       <guid>https://drtbz.com/categories/kubernetes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>references</title>
-      <link>https://drtbz.com/categories/references/</link>
-      <pubDate>Wed, 25 May 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://drtbz.com/categories/references/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>terraform</title>
-      <link>https://drtbz.com/categories/terraform/</link>
-      <pubDate>Wed, 25 May 2022 19:00:00 +0100</pubDate>
-      
-      <guid>https://drtbz.com/categories/terraform/</guid>
       <description></description>
     </item>
     

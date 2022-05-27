@@ -9,11 +9,11 @@
       <link>https://drtbz.com/</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 25 May 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://drtbz.com/tags/helm/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 May 2022 19:00:00 +0100</lastBuildDate><atom:link href="https://drtbz.com/tags/helm/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Image Pull Secrets and the Default Service Account</title>
+      <title>Helm --set, and arrays</title>
       <link>https://drtbz.com/posts/20220526-helm-set-array/</link>
-      <pubDate>Wed, 25 May 2022 19:00:00 +0100</pubDate>
+      <pubDate>Fri, 27 May 2022 19:00:00 +0100</pubDate>
       
       <guid>https://drtbz.com/posts/20220526-helm-set-array/</guid>
       <description>a quick reference for image pull secrets and k8s service accounts</description>
