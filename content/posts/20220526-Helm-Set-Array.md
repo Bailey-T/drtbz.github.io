@@ -1,9 +1,9 @@
 ---
 draft: false
-title: Image Pull Secrets and the Default Service Account
+title: Helm --set, and arrays
 description: a quick reference for image pull secrets and k8s service accounts
 
-date: 2022-05-25T19:00:00+01:00
+date: 2022-05-27T19:00:00+01:00
 tags: 
     - kubernetes
     - helm
