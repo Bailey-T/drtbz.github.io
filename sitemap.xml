@@ -17,7 +17,22 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://drtbz.com/tags/helm/</loc>
+    <lastmod>2022-05-25T19:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/categories/helm/</loc>
+    <lastmod>2022-05-25T19:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://drtbz.com/posts/20220525-imagepullsecret/</loc>
+    <lastmod>2022-05-25T19:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/posts/20220526-helm-set-array/</loc>
     <lastmod>2022-05-25T19:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -43,6 +58,16 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://drtbz.com/tags/</loc>
+    <lastmod>2022-05-25T19:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/tags/terraform/</loc>
+    <lastmod>2022-05-25T19:00:00+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://drtbz.com/categories/terraform/</loc>
     <lastmod>2022-05-25T19:00:00+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

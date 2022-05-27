@@ -19,5 +19,14 @@
       <description>a quick reference for image pull secrets and k8s service accounts</description>
     </item>
     
+    <item>
+      <title>Image Pull Secrets and the Default Service Account</title>
+      <link>https://drtbz.com/posts/20220526-helm-set-array/</link>
+      <pubDate>Wed, 25 May 2022 19:00:00 +0100</pubDate>
+      
+      <guid>https://drtbz.com/posts/20220526-helm-set-array/</guid>
+      <description>a quick reference for image pull secrets and k8s service accounts</description>
+    </item>
+    
   </channel>
 </rss>
