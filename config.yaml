@@ -1,6 +1,12 @@
+module:
+  imports:
+  - path: github.com/adityatelange/hugo-PaperMod
+  
 baseURL: "https://drtbz.com/"
 title: drtbz | Tom Bailey #This is the tab title for the page and also goes in the footer "This is fine \U0001F525" 
-paginate: 5
+pagination:
+  pagerSize: 5
+
 theme: [github.com/adityatelange/hugo-PaperMod]
 
 enableRobotsTXT: true
@@ -70,10 +76,9 @@ params:
     # profile-mode
     profileMode:
         enabled: true # needs to be explicitly set
-        title: "drtbz | Tom Bailey
-
-
-        This is fine \U0001F525"
+        title: | 
+          "drtbz | Tom Bailey
+          This is fine \U0001F525"
         subtitle: "Cloud engineering, automating , CTF and coffee."
         imageUrl: "images/berk.jpg"
         imageWidth: 120
