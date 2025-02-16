@@ -142,7 +142,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 ```
-This is configured to use the `hugo` environment, so it will only run on pushes to `master`. It will then generate your static stite, and place it in the `gh-pages` branch, that GitHub Pages is looking at to do it's magic.
+This is configured to use the `hugo` environment, so it will only run on pushes to `master`. It will then generate your static site, and place it in the `gh-pages` branch, that GitHub Pages is looking at to do it's magic.
 
 Easy? Let me know!
 
